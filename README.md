@@ -7,12 +7,13 @@
 
 ## Build
 
-```mvn packge -DskipTests```
+```mvn package -DskipTests```
 
 ## Run
 
 ```cd ./bin```
-```run.sh absolute-path-to-file```
+
+```./run.sh absolute-path-to-file```
 
 ## How I tested it
 
